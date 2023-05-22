@@ -54,5 +54,6 @@ The solution can significantly impact disaster response and recovery efforts by 
 
 ### Segementaion Results using k-mean
 
-![1](https://github.com/Elonsolmostafa1/Flood-Damage/assets/62807830/458c9d9b-cbd7-4d03-9d50-4e536200a5ec)
-![2](https://github.com/Elonsolmostafa1/Flood-Damage/assets/62807830/c8476909-b6fe-4e07-bc6f-ba31b8468b63)
+
+![1](https://github.com/Elonsolmostafa1/Flood-Damage/assets/62807830/0baa69b5-219b-4589-920d-6b5168951cc5)
+![2](https://github.com/Elonsolmostafa1/Flood-Damage/assets/62807830/7f147836-e248-4d4d-b228-cd39a038f22f)
