@@ -1,6 +1,5 @@
 
-![image](https://github.com/Elonsolmostafa1/Flood-Damage/assets/49917088/81cd2432-55ea-4c14-a7e6-bfdee864e85c)
-
+<img src="https://github.com/Elonsolmostafa1/Flood-Damage/assets/49917088/81cd2432-55ea-4c14-a7e6-bfdee864e85c" width="100%">
 ## Flood Damage Detection in Satellite Imagery
 
 This project aims to develop an automated method for detecting post-flood damages in satellite imagery using machine learning and computer vision techniques. The solution enables the rapid and accurate identification of damaged areas, assisting emergency responders and disaster relief organizations in effectively allocating resources and planning response efforts.
